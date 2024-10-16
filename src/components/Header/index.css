@@ -1,0 +1,26 @@
+*{
+    color: white;
+}
+.options-cont {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    background-color: #00161D;
+    padding: 10px;
+    border-radius: 20px;
+    width: 750px;
+    margin: 20px;
+}
+
+.header-cont {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+
+
+}
